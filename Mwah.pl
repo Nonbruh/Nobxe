@@ -47,7 +47,7 @@ print <<EOTEXT;
  ´´¶´´´´´´´´¶¶¶¶¶¶¶¶´´´´´´´´¶´´
  ´´¶¶´´´´´´´¶¶´´´´¶¶´´´´´´¶¶´´´
  ´´´´¶¶¶¶¶¶¶´´´´´´´´¶¶¶¶¶¶´´´´´
- His Router Just Got slammed by Unssaid
+ His Router Just Got Clawed by Unssaid And HelloKitty Meow Meow Nigga
 EOTEXT
 print "AMP UDP Flooding $ip " . ($port ? $port : "random") . " port with " .
   ($size ? "$size-byte" : "random size") . " packets" .
