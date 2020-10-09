@@ -7,7 +7,7 @@
 use Socket;
 use strict;
 
-my ($ip,$port,$size,$time) = @ARGV;
+my ($ip,$port,$size,$time) =@ARGV;
 
 my ($iaddr,$endtime,$psize,$pport);
 
